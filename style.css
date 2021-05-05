@@ -1,0 +1,26 @@
+body {
+    background-color:burlywood;
+    text-align: center;
+}
+
+.trees{
+    width:500px;
+    height:300px;
+    margin: 20px
+}
+#hello{
+  font-family:serif;
+    font-size:30px;
+    text-align:center;
+}
+#date{
+    font-family:monospace;
+    font-size:30px;
+    text-align:center;
+}
+.line{
+    height: auto;
+    width: auto;
+    color: goldenrod;
+    
+}
